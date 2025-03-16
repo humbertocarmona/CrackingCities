@@ -1,0 +1,209 @@
+info: time_begin =  160325-09h18-22
+info: runid =  001
+info: L =  [1000.0:1.0:1000.0]
+info: nsamples =  1
+debug: n_nodes = 11134
+debug: ang Lx = 0.18632699999999147, Ly = 0.16327749999999952
+debug: ang nx = 208, ny = 183
+info: creating logs
+info: creating results
+info: time_begin =  160325-09h18-48
+info: runid =  001
+info: L =  [1000.0:1.0:1000.0]
+info: nsamples =  10
+debug: n_nodes = 11134
+debug: ang Lx = 0.18632699999999147, Ly = 0.16327749999999952
+debug: ang nx = 208, ny = 183
+info: ℓ = 1000.0
+info: ℓ = 1000.0
+info: ℓ = 1000.0
+info: ℓ = 1000.0
+debug: 1 (3155, 7204), distance = 1000.0166966576408
+debug: 2 (2127, 10944), distance = 1000.7126250945224
+debug: 3 (6023, 9156), distance = 1000.2762693117099
+debug: 4 (6479, 4990), distance = 1000.7048030735042
+debug: 5 (10957, 3073), distance = 1000.9907012992804
+debug: 6 (9741, 10271), distance = 1000.569065646219
+debug: 7 (5934, 10870), distance = 999.1820867371836
+debug: 8 (7195, 2824), distance = 1000.609985489373
+debug: 9 (5830, 1392), distance = 999.7187069684702
+debug: 10 (5364, 10435), distance = 1000.3374466514583
+debug: cracking (3155) -> (7204)
+debug: removed 64/24840  edges
+info: creating logs
+info: creating results
+info: time_begin =  160325-09h21-46
+info: runid =  001
+info: L =  [1000.0:1.0:1000.0]
+info: nsamples =  10
+debug: n_nodes = 11134
+debug: ang Lx = 0.18632699999999147, Ly = 0.16327749999999952
+debug: ang nx = 208, ny = 183
+info: ℓ = 1000.0
+debug: 1 (5350, 7103), distance = 999.912533139767
+debug: 2 (4166, 7397), distance = 999.0359910858705
+debug: 3 (4730, 10184), distance = 999.4386449556266
+debug: 4 (1740, 5680), distance = 1000.0619715655181
+debug: 5 (8046, 10366), distance = 999.3830218619408
+debug: 6 (10830, 9808), distance = 1000.460965072974
+debug: 7 (6390, 6597), distance = 999.6888871814597
+debug: 8 (5444, 9967), distance = 999.7619709135946
+debug: 9 (8304, 761), distance = 1000.5136746696259
+debug: 10 (8773, 9723), distance = 999.299252053968
+debug: cracking (5350) -> (7103)
+debug: removed 11/24840  edges
+info: ℓ = 1000.0
+debug: 1 (8137, 8895), distance = 999.3140380735861
+debug: 2 (3712, 5567), distance = 1000.7443905736196
+debug: 3 (10687, 1951), distance = 1000.257583226091
+debug: 4 (10282, 10984), distance = 999.171935448413
+debug: 5 (63, 410), distance = 1000.566966511465
+debug: 6 (8754, 7151), distance = 999.5457630736792
+debug: 7 (9514, 8695), distance = 999.0211139954528
+debug: 8 (3107, 3645), distance = 999.7124333789905
+debug: 9 (5451, 4018), distance = 1000.247269036835
+debug: 10 (9545, 6780), distance = 999.2396080950829
+debug: cracking (8137) -> (8895)
+debug: removed 4/24840  edges
+debug: cracking (3712) -> (5567)
+debug: removed 13/24840  edges
+debug: cracking (10687) -> (1951)
+debug: removed 4/24840  edges
+debug: cracking (10282) -> (10984)
+debug: removed 9/24840  edges
+debug: cracking (63) -> (410)
+debug: removed 82/24840  edges
+debug: cracking (8754) -> (7151)
+debug: removed 2/24840  edges
+debug: cracking (9514) -> (8695)
+debug: removed 4/24840  edges
+debug: cracking (3107) -> (3645)
+debug: removed 1/24840  edges
+debug: cracking (5451) -> (4018)
+debug: removed 70/24840  edges
+debug: cracking (9545) -> (6780)
+debug: removed 152/24840  edges
+info: ℓ = 1000.0
+debug: 1 (3533, 2273), distance = 999.0263284485275
+debug: 2 (10351, 9777), distance = 999.8983900401968
+debug: 3 (8695, 9514), distance = 999.0211139954528
+debug: 4 (9478, 9448), distance = 999.4224070262118
+debug: 5 (8463, 904), distance = 999.3092401124055
+debug: 6 (8138, 3771), distance = 999.8970104331187
+debug: 7 (4578, 6821), distance = 1000.427188701826
+debug: 8 (4569, 7528), distance = 999.8568086250446
+debug: 9 (10743, 6833), distance = 999.3818820255236
+debug: 10 (9910, 5603), distance = 1000.5187730458429
+debug: cracking (3533) -> (2273)
+debug: removed 2/24840  edges
+debug: cracking (10351) -> (9777)
+debug: removed 2/24840  edges
+debug: cracking (8695) -> (9514)
+debug: removed 3/24840  edges
+debug: cracking (9478) -> (9448)
+debug: removed 0/24840  edges
+debug: cracking (8463) -> (904)
+debug: removed 2/24840  edges
+debug: cracking (8138) -> (3771)
+debug: removed 61/24840  edges
+debug: cracking (4578) -> (6821)
+debug: removed 1/24840  edges
+debug: cracking (4569) -> (7528)
+debug: removed 25/24840  edges
+debug: cracking (10743) -> (6833)
+debug: removed 34/24840  edges
+debug: cracking (9910) -> (5603)
+debug: removed 1/24840  edges
+info: ----------- finished -----------------
+25-03-16 9:22
+took  57 seconds, 833 milliseconds
+--------------------------------------------
+info: creating logs
+info: creating results
+info: time_begin =  160325-09h23-05
+info: runid =  001
+info: L =  [1000.0:1.0:1000.0]
+info: nsamples =  10
+debug: n_nodes = 11134
+debug: ang Lx = 0.18632699999999147, Ly = 0.16327749999999952
+debug: ang nx = 208, ny = 183
+info: ℓ = 1000.0
+debug: 1 (947, 3909), distance = 1000.0943403535563
+debug: 2 (2867, 7419), distance = 999.8085134730792
+debug: 3 (1182, 3933), distance = 999.8027688678466
+debug: 4 (6585, 7360), distance = 999.7095439151602
+debug: 5 (130, 10100), distance = 999.903356634399
+debug: 6 (3929, 3951), distance = 999.3803457454025
+debug: 7 (996, 4171), distance = 1000.4942364889234
+debug: 8 (8659, 8287), distance = 999.7392285099221
+debug: 9 (1878, 10112), distance = 1000.5130969155924
+debug: 10 (4947, 7019), distance = 1000.0809070392418
+debug: cracking (947) -> (3909)
+debug: removed 14/24840  edges
+debug: cracking (2867) -> (7419)
+debug: removed 101/24840  edges
+debug: cracking (1182) -> (3933)
+debug: removed 44/24840  edges
+debug: cracking (6585) -> (7360)
+debug: removed 10/24840  edges
+debug: cracking (130) -> (10100)
+debug: removed 5/24840  edges
+debug: cracking (3929) -> (3951)
+debug: removed 10/24840  edges
+debug: cracking (996) -> (4171)
+debug: removed 35/24840  edges
+debug: cracking (8659) -> (8287)
+debug: removed 1/24840  edges
+debug: cracking (1878) -> (10112)
+debug: removed 118/24840  edges
+debug: cracking (4947) -> (7019)
+debug: removed 1/24840  edges
+info: ----------- finished -----------------
+25-03-16 9:23
+took  4 seconds, 364 milliseconds
+--------------------------------------------
+info: creating logs
+info: creating results
+info: time_begin =  160325-09h26-25
+info: runid =  001
+info: L =  [1000.0:1.0:1000.0]
+info: nsamples =  10
+debug: n_nodes = 11134
+debug: ang Lx = 0.18632699999999147, Ly = 0.16327749999999952
+debug: ang nx = 208, ny = 183
+info: ℓ = 1000.0
+debug: 1 (10474, 4922), distance = 1000.3890191457526
+debug: 2 (1577, 1064), distance = 999.7084313724816
+debug: 3 (7403, 8439), distance = 1000.1967085919008
+debug: 4 (7322, 6079), distance = 1000.0721688194336
+debug: 5 (7948, 114), distance = 999.1926632427155
+debug: 6 (10293, 10717), distance = 999.0683889442871
+debug: 7 (1595, 9839), distance = 1000.6788967683533
+debug: 8 (7737, 10398), distance = 999.3777742734763
+debug: 9 (7753, 6631), distance = 1000.1970656358981
+debug: 10 (1620, 2387), distance = 1000.6439962831344
+debug: cracking (10474) -> (4922)
+debug: removed 1/24840  edges
+debug: cracking (1577) -> (1064)
+debug: removed 67/24840  edges
+debug: cracking (7403) -> (8439)
+debug: removed 2/24840  edges
+debug: cracking (7322) -> (6079)
+debug: removed 17/24840  edges
+debug: cracking (7948) -> (114)
+debug: removed 1/24840  edges
+debug: cracking (10293) -> (10717)
+debug: removed 24/24840  edges
+debug: cracking (1595) -> (9839)
+debug: removed 23/24840  edges
+debug: cracking (7737) -> (10398)
+debug: removed 116/24840  edges
+debug: cracking (7753) -> (6631)
+debug: removed 1/24840  edges
+debug: cracking (1620) -> (2387)
+debug: removed 7/24840  edges
+info: wrote results/boston-nr-001-l-1000.csv
+info: ----------- finished -----------------
+25-03-16 9:26
+took  4 seconds, 67 milliseconds
+--------------------------------------------
