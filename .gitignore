@@ -24,3 +24,5 @@ docs/site/
 # environment.
 Manifest.toml
 
+# python
+**/.ipynb_checkpoints
