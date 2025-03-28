@@ -1,7 +1,9 @@
 # Exclude specific directory
 - /.git/
+- **/cache/
 - **/env/
 - **/.env/
+- **/ipynb_checkpoints/
 # Exclude specific file
 - **Manifest.toml
 - **__pycache__
